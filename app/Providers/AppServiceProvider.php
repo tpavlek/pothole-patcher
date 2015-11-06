@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Depotwarehouse\PotholePatcher\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

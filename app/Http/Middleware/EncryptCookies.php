@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace Depotwarehouse\PotholePatcher\Http\Middleware;
 
 use Illuminate\Cookie\Middleware\EncryptCookies as BaseEncrypter;
 

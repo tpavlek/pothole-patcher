@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Jobs;
+namespace Depotwarehouse\PotholePatcher\Jobs;
 
 use Illuminate\Bus\Queueable;
 

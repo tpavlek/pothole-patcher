@@ -140,10 +140,10 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        Depotwarehouse\PotholePatcher\Providers\AppServiceProvider::class,
+        Depotwarehouse\PotholePatcher\Providers\AuthServiceProvider::class,
+        Depotwarehouse\PotholePatcher\Providers\EventServiceProvider::class,
+        Depotwarehouse\PotholePatcher\Providers\RouteServiceProvider::class,
 
     ],
 

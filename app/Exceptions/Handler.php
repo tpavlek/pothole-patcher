@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Exceptions;
+namespace Depotwarehouse\PotholePatcher\Exceptions;
 
 use Exception;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
